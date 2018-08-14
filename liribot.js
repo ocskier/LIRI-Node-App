@@ -214,7 +214,7 @@ function checkRunAgain() {
                 }
                 else {console.log("\nThanks for using LIRI!");}
         });
-    },1000);
+    },1200);
 }
 
 runLIRi();
