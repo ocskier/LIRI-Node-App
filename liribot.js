@@ -1,6 +1,6 @@
 require('dotenv').config();
 
-var keys=require("./API_keys.js");
+var keys=require("./my_keys.js");
 
 var request = require('request');
 var inquirer = require("inquirer");
