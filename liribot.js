@@ -34,7 +34,7 @@ function getSpotify (song) {
         // Do something with 'data'
         console.log("\nThe artists name is: "+data.tracks.items[0].artists[0].name);
         console.log("The album is: "+data.tracks.items[0].album.name);
-        console.log("The release year was: "+data.tracks.items[0].album.release_date);
+        console.log("The release date was: "+data.tracks.items[0].album.release_date);
         console.log("Disc: "+data.tracks.items[0].disc_number);
         console.log("Track: "+data.tracks.items[0].track_number);
         console.log("Current Pop Rating: "+data.tracks.items[0].popularity+"%");
