@@ -18,7 +18,9 @@
   "homepage": "https://github.com/ocskier/LIRI-Node-App#readme",
   "dependencies": {
     "dotenv": "^6.0.0",
+    "inquirer": "^6.1.0",
     "node-spotify-api": "^1.0.7",
+    "npm": "^6.3.0",
     "omdb": "^0.8.0",
     "request": "^2.88.0",
     "twitter": "^1.7.1"
