@@ -22,4 +22,4 @@ An AI demo app using node.js
 
 * After any successful API query from a user selected choice the user can select to run LIRI again or quit
 
-* The code for this can be found in my portfolio at                                       https://ocskier.github.io/My-Mat-Portfolio
+* The code for this can be found in my portfolio at <https://ocskier.github.io/JRJ-Folio>
