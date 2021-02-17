@@ -2,7 +2,7 @@
 
 An AI demo app using node.js
 
-* [`liribot.js] (LIRI-Node-App/liribot.js)
+![liribot.js](liri.PNG)
 
 ## Instructions
 
